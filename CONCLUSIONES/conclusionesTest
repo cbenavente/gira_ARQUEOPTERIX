@@ -1,0 +1,144 @@
+
+Conclusiones:
+-----------------------------------
+
+***********
+*  PACMAN *  (12 min)
+***********
+
+	No gusta bajar por debajo de los 40 fps
+
+	Se prefiere bajar en calidad que en resolución.
+
+**************
+* DonkeyKong * (11 min)
+**************
+
+	Se prefiere una alta calidad (crf = 20), se puede bajar en resolución (hasta los 512x288)
+
+	No gusta bajar por debajo de los 25 fps
+
+**************
+* DragonBall * (12 min)
+**************
+
+	Se prefiere máximo fps (60 fps)
+
+	Mejor bajar en resolución que en calidad (aunque la calidad ya es bastante mala crf = 28)
+
+**************
+* PuzzleBall * (13 min)
+**************
+
+	Se prefiere bajar solamente en calidad
+
+	Mantener los fps al máximo y la resolución al máximo
+
+
+************
+* ARMA3Jet * (11 min)
+************
+
+	Se prefiere bajar solamente en calidad
+
+	Mantener los fps al máximo y la resolución al máximo
+	
+
+******************
+* FormulaExtreme * (11 min)
+******************
+
+	Se prefiere bajar solamente en calidad
+
+	Mantener los fps muy altos (> 50) y la resolución muy alta
+
+
+***********************
+* DirtyRally on Board * (11 min)
+***********************
+
+	Se prefiere bajar solamente en calidad
+
+	Mantener los fps al máximo y la resolución al máximo
+
+
+*******************
+* DirtyRally 2016 * (12 min)
+*******************
+
+	Se prefiere en fps hasta un mínimo de 30 y después bajar en calidad
+
+	Mantener la resolución al máximo
+
+
+****************
+* MarioCircuit * (11 min)
+****************
+
+	Se prefiere en fps hasta un mínimo de 30 y después bajar en calidad
+
+	Mantener la resolución si se cumple bitrate y sino bajar en resolución como ultima solución.
+
+
+***************
+* BattleField * (11 min)
+***************
+
+	Se prefiere mantener los fps por encima de 50
+
+	Primero degradar en resolucion hasta 512x288 y despues en calidad
+
+
+*****************
+* ExclusiveDoom * (12 min)
+*****************
+
+	Se prefiere mantener los fps por encima de 30
+
+	Ir degradando en resolución y en calidad alternativamente
+
+
+************
+* Paladins * (12 min)
+************
+
+	Se prefiere mantener los fps lo más alto posible (mínimo 40)
+
+	Mantener la resolución y degradar en calidad
+	
+	
+**************************
+* ProEvolutionSoccer2017 * (8 min)
+**************************
+
+	Se prefiere mantener los fps lo más alto posible (mínimo 50)
+	
+	Ir degradando en resolución y en calidad alternativamente
+
+
+************************
+* OnlineMeetingOne2One * (4 min)
+************************
+	
+	Por debajo de los 24 fps no gusta al usuario
+
+	Se puede degradar en resolución o en calidad
+
+
+**********************
+* OnlineMeetingMulti * (6 min)
+**********************
+
+	Por debajo de los 24 fps no gusta al usuario
+
+	Se puede degradar en resolución o en calidad
+
+
+****************
+* BigBuckBunny * (8 min)
+****************
+
+	Se prefiere en fps hasta un mínimo de 35 y después bajar en calidad
+
+	Mantener la resolución alta y si es necesario degradar en ultima instancia
+
